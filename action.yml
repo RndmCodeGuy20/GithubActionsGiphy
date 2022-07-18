@@ -1,0 +1,8 @@
+name: "NASA Images"
+author: "RndmCodeGuy2002"
+
+description: "Get an awesome space pic from NASA in your README!!!"
+
+runs: 
+  using: node12
+  main: index.js

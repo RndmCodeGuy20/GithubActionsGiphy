@@ -1,0 +1,16 @@
+{
+	"name": "githubactionsgiphy",
+	"version": "1.0.0",
+	"description": "random gifs using giphy api",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index.js"
+	},
+	"author": "RndmCodeGuy20",
+	"license": "MIT",
+	"dependencies": {
+		"http": "^0.0.1-security",
+		"node-fetch": "^3.2.9"
+	}
+}
