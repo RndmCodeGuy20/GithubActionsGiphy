@@ -1,1 +1,1 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1301/flamingstar_pugh_960.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1705/NGC3628_Coles_960.jpg"></br><!-- #end -->
