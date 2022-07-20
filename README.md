@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0504/orion_iras.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/earth_a17.gif"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
