@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1010/sunbug_soho.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1606/Omega_Crete_200mm_15schedler.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
