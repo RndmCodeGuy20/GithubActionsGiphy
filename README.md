@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/survey_ap12.gif"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0905/PerseusCluster_gabany_abell426H600.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
