@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/9711/hbm31_jcc.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/map_cover.gif"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
