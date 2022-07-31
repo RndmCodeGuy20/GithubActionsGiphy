@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/2012/2020Dec14TSE_Ribas_IMG_9291c1024.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1202/rafael_schmall_lunar_halo_2012_02_02_2_600c.JPG"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
