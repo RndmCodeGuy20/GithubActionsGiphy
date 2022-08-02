@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1110/strangesunrise_argerich_900.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0207/ngc4365-15a-02sm.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
