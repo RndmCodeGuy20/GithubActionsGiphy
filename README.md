@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1305/748857main_FourXclass_Blend2fix1024.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0908/m25_cfht.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
