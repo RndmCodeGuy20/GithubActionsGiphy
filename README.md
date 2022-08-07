@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/9701/aurora_orion_sts59.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0508/coronaloop_trace.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
