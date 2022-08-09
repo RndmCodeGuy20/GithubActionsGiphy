@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/9908/braille_dso.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0109/magnetars_cobeloc.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
