@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1203/MoonlightGrandCanyon_MPark900.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/dumbbell_moo.gif"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
