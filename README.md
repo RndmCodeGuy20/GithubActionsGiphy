@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1001/westarcapture_sts51a.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0103/sundraw_groenez.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
