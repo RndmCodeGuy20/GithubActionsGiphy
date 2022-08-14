@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0801/PolarisNebula_mandel800.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1001/westarcapture_sts51a.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
