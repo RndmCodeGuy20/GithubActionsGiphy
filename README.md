@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1012/milliongalaxies_2mass.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0407/sunspot_newton.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
