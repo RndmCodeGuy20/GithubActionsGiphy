@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0506/etacar_spitzer_f35.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/2201/NGC-1999_1100.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
