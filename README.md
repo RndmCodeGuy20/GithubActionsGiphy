@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0103/goddardrocket_orig.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/9802/earth_near.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
