@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/ecliptic_clem.gif"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1708/EclipsePrince_Vetter_1000.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
