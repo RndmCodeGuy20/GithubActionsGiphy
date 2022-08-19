@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1105/mp_2011-05_LittleDipperAndreo.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/atlantis_land.gif"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
