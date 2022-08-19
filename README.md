@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/atlantis_land.gif"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1701/pinky_sun_beletsky1024y.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
