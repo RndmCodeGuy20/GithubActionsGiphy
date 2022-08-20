@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1506/TripleConjunction_Rey_960.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1110/592714main_neo20110929-crop.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
