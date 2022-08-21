@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0011/leonidsfromspace_msx_big.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1010/GhostShipTrails_kotsiopoulos.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
