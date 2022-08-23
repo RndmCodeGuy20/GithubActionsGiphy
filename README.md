@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1511/cheshirecat_chandra_comp1024c.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/aurora1_sts39.gif"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
