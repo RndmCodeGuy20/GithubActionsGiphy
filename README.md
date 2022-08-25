@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0906/ngc6240_spitzerhubble_c800.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0305/earthmoon_mgs.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
