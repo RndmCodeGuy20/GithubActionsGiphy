@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1404/eclipse_apr15th_dp.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1205/Herschel_cygnusX_04052012_H600.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
