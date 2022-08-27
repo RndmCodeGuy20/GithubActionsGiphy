@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0311/gb1508_xray_illustration90.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/2206/SolSysPortrait_Trigo_1080_annotated.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
