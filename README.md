@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0209/casimirsphere_mohideen.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="undefined"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
