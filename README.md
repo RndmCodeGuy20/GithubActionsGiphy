@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1006/retrogrademars2010_tezel.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0003/febcme_sohoc2.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
