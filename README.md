@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/2107/IMG_2021_07_08_29558_APOD1024.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/CygnusLoop_hst.gif"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
