@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/2102/M66_HubbleShatz_960.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/m64_keel.gif"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
