@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/9910/phiper_bpounds.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/vela.gif"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
