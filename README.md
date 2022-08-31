@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/vela.gif"></br><!-- #end -->
+<!-- #image --><img align="center" src="http://nusoft.fnal.gov/nova/public/img/FD-evt-echo.gif"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
