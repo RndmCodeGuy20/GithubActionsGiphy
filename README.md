@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/9902/spiralspot_noao.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/9702/solwind_soho.gif"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
