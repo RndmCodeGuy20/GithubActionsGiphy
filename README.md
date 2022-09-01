@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0007/zvezdalaunch_nasa.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0701/CometMcNaught_SeipLevy_inset.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
