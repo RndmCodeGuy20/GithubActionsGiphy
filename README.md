@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/9904/orman0319_c1.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0712/earthterminator_iss002_c800.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
