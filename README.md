@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/9701/earth_toutatis.gif"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0005/moonslide_surveyor5.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
