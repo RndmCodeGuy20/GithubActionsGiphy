@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/9905/solarsystem_voyager_big.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0504/methuselah_spirit.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
