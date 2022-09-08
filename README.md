@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/9612/het_ut.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0503/grayEarth_petry.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
