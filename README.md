@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://www.ustream.tv/embed/17074538?v=3&wmode=direct&autoplay=true"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1006/wd2_xrayir_c790.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
