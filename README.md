@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/2209/m51_l2_1024.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0108/artificialnight_dmsp.gif"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
