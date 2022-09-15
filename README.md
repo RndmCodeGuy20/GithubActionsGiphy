@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/gx5moon_rosat_crop.gif"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0408/zodiacal_seip_unlabelled.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
