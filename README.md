@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0005/sn1987a_cxo_hst.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0903/Fermi3month_labeled_c900.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
