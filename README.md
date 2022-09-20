@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0812/smileyfaceatsunset-900px-mikesalway.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0308/palomar200_redfern_c2.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
