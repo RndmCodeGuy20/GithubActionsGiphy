@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1709/sunprint-over-pano-copyrightBueter1024.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/pleiades_uks_big.gif"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
