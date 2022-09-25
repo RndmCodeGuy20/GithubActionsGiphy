@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/mimas_vg1.gif"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1308/magStream_allskycomp1200.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
