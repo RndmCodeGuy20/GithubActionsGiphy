@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1612/llpegspiral_hubble_960.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1801/DSC07952JupMars_DHan1024.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
