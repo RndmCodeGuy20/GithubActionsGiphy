@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0206/belfastplanets_paice.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0104/aurnewzealand_petrich2.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
