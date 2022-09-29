@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1811/SHonda-moon-VLA1024.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1105/AllSkySurvey_Risinger1500.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
