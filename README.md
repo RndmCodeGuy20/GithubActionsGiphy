@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0910/starrynight_vangogh.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/9703/ngc3242_bb.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
