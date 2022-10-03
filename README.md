@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/9911/antarctica_radarsat.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0009/jupiterapproach_vg1.gif"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
