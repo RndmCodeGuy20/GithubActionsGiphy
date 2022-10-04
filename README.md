@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1902/MagneticOrion_EsoSofia_960.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/cgroastronaut_shuttle.gif"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
