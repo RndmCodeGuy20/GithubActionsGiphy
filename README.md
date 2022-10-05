@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0509/MoonRiver_ouellet_f65x.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0708/M64_RC_tamanti_c800.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
