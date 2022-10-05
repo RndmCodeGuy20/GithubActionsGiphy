@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0812/NEWGRANGE_ITIMES_800.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/etacarinae_hst2.gif"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
