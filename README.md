@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1201/NGC6946-Subaru-Gendler900c.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1004/prometheus2_cassini.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
