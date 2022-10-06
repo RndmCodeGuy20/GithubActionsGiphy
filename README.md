@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0602/tethysbasin_cassini.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/hyak32.gif"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
