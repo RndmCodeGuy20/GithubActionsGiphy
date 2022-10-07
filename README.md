@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1809/Broom_Pickering_milne_APODw600.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0204/CenA_wfpc2.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
