@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1308/wave_earth_mosaic_900c.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/2008/NeowiseSequence_Llorens_960_annotated.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
