@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0212/tse02c1_carloskern_002_Newkirk-5s.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0301/dumbbellho_noao.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
