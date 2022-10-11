@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/2004/SailingStone_Burke_960.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/jupclouds_nasairtf.gif"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
