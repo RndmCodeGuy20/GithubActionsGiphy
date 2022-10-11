@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1908/AngelNebula_Lonazo_960.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0612/DiscoveryOrion_aurigema_c720.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
