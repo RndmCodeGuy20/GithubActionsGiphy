@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1304/panstarrsm31_pavel_960.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1410/mwSunToMoon_lane_1080.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
