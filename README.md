@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1904/TahaIMG_1142-1_800w.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0305/illume_wasilewski_full.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
