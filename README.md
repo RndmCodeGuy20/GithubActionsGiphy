@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/9902/milkyway_gleason.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0102/sonicboomplane_navy.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
