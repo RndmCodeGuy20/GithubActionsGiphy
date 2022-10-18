@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/2205/eclipse-lune-2022c1024.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1811/ward30DoradusHaLRGB1024.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
