@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0503/earthquake_usgs.gif"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0705/earth_galileo.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
