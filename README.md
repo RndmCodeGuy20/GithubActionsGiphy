@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1109/Delta2_GRAIL_MST_rollback900.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0007/nzeclipse_munford.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
