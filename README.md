@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0504/dustdevil5_spirit.gif"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1908/PerseidsPloughCow1024.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
