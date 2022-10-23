@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1112/lensshoe_hubble_900.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/hyakutake_find_hst.gif"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
