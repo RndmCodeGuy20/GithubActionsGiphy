@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0207/innersolsys_cfa.gif"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/9908/redspot_heritage.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
