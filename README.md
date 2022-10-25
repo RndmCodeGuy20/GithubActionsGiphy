@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/2008/TYC8998_ESO_960.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1901/LOmbradellaTerraFinazzi1024.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
