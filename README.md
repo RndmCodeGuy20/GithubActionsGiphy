@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0606/movingmoons_cassini.gif"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0110/huygenspara_esa.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
