@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0508/epimetheus2_cassini_big.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/iofullface_gal.gif"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
