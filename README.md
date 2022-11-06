@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/9702/tombaugh_beatty.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/a13_servicemod.gif"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
