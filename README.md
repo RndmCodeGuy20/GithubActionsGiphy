@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0602/horseregion_ssro.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1512/PlutoCloseUp_NewHorizons_1080.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
