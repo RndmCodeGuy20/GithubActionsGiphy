@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/9912/nowind_polar.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0809/MoonRays_Byurakan1412px.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
