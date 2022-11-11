@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/9911/mercury_1600_trace.gif"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/2101/Tse_2020_400mm_dmwa-rot.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
