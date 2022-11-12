@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1903/HoughtonAurora_03_2019_600.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1806/RyuguApproach_Hayabusa2_960.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
