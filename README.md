@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1403/blackhole_hobart_960.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1004/NGC1055_crawford950.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
