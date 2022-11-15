@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/2201/CometLeonard_Estes_960.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0602/rs_ophiuci_021606_c33.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
