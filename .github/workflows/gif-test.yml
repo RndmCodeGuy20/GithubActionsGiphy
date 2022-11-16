@@ -2,7 +2,7 @@ name: Awesome space picture
 # Get an awesome space pic from NASA in your README!!!
 on:
   schedule: 
-    - cron: "0 */2 * * *"
+    - cron: "0 */12 * * *"
   
   workflow_dispatch:
 
@@ -22,5 +22,5 @@ jobs:
           git config --global user.name "rndmcodeguy"
           git config --global user.email "shantanu.mane.200@outlook.com"
           git add .
-          git commit -m "docs ✨ new pic added : master"
+          git commit -m "docs ✨: new pic added : master"
           git push
