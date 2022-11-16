@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/2207/STScI-SMACS0723_webb.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0705/deathvalleysky_nps.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
