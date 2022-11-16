@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0907/tse2008GreatWallplanets_cuttle_label.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0404/bradfield_lasco.gif"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
