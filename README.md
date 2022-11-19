@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1503/QuadSupernova_hubble_1080.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1709/EclipseClimber_Struder_1080.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
