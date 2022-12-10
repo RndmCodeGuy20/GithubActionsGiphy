@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0808/TSE2008_beldea_c800.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0306/galaxies2_apm.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
