@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/9707/mars6a_pathfinder.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0602/flamingstar_cfht_big.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
