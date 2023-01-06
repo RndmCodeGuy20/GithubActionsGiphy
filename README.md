@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0910/prominence_stereo.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0002/sn1987a_hst1.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
