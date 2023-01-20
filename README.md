@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0807/mcnaught3_kemppainen_big.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0303/deml71_cxc_c1.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
