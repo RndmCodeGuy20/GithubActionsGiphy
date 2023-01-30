@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/lunarscape_apollo17.gif"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0802/RSPup_kervella_c800.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
