@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="//www.youtube.com/embed/DmYK479EpQc?vq=hd720&rel=0"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1806/ViaLacteaconMarte_c01024.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
