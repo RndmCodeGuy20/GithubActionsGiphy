@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/1806/ViaLacteaconMarte_c01024.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0608/a17anaglyph_vanMeijgaarden_c34.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
