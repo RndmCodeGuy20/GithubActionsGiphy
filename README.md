@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0710/crescentsaturn_cassini.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0810/earthlights2_dmsp.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
