@@ -1,4 +1,4 @@
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0003/ddtrails_mgs.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0901/Quadran-Lulin_tafreshih600.jpg"></br><!-- #end -->
 
 
 Add this code in `.github/workflows/nasa-images.yml`
