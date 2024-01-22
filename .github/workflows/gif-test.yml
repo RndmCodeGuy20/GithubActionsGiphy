@@ -1,10 +1,5 @@
 name: Awesome space picture
 # Get an awesome space pic from NASA in your README!!!
-on:
-  schedule: 
-    - cron: "0 */12 * * *"
-  
-  workflow_dispatch:
 
 jobs: 
   build:
